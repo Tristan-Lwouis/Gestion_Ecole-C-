@@ -1,0 +1,89 @@
+-------------------- ECOLE LDNR --------------------
+
+Nom du directeur : Buchner Nina
+Le total de classe dans l'école est de : 0
+Dans l'école il y a 1 classes de CP
+Dans l'école il y a 1 classes de CE1
+Dans l'école il y a 1 classes de CE2
+Dans l'école il y a 0 classes de CM1
+Dans l'école il y a 0 classes de CM2
+--- FIN ECOLE -------------------------------------
+
+~~~~~~~~~~~~~~ CLASSE DE CP 1 ~~~~~~~~~~~~~~ 
+Nom du professeur : MMe ou Mr Emanuel Macron
+Dans la classe il y a 2 fille et 3 garçon.
+
+---------- ÉLEVE Teri Boulet ----------
+Nom : Boulet
+Prenom : Teri
+Sexe : Homme
+Date de naissance : 01-10-2018
+
+---------- ÉLEVE Trystan Araignée ----------
+Nom : Araignée
+Prenom : Trystan
+Sexe : Homme
+Date de naissance : 01-08-2018
+
+---------- ÉLEVE Sebastien-Jean Michel ----------
+Nom : Michel
+Prenom : Sebastien-Jean
+Sexe : Homme
+Date de naissance : 01-09-2018
+
+---------- ÉLEVE Clara Morgane ----------
+Nom : Morgane
+Prenom : Clara
+Sexe : Femme
+Date de naissance : 06-04-2018
+
+---------- ÉLEVE Triss Gaston ----------
+Nom : Gaston
+Prenom : Triss
+Sexe : Femme
+Date de naissance : 04-08-2018
+
+~~~~~~~~~~~~~~ CLASSE DE CE1 1 ~~~~~~~~~~~~~~ 
+Nom du professeur : MMe ou Mr Francois Bayrou
+Dans la classe il y a 0 fille et 3 garçon.
+
+---------- ÉLEVE Mike Thompson ----------
+Nom : Thompson
+Prenom : Mike
+Sexe : Homme
+Date de naissance : 08-11-2017
+
+---------- ÉLEVE Francis Cabrel ----------
+Nom : Cabrel
+Prenom : Francis
+Sexe : Homme
+Date de naissance : 05-06-2017
+
+---------- ÉLEVE Yannick Nhoa ----------
+Nom : Nhoa
+Prenom : Yannick
+Sexe : Homme
+Date de naissance : 07-04-2017
+
+~~~~~~~~~~~~~~ CLASSE DE CE2 1 ~~~~~~~~~~~~~~ 
+Nom du professeur : MMe ou Mr Manuel Vals
+Dans la classe il y a 1 fille et 2 garçon.
+
+---------- ÉLEVE Elis Noubachmir ----------
+Nom : Noubachmir
+Prenom : Elis
+Sexe : Homme
+Date de naissance : 07-08-2016
+
+---------- ÉLEVE Jhonny Haliday ----------
+Nom : Haliday
+Prenom : Jhonny
+Sexe : Homme
+Date de naissance : 09-04-2016
+
+---------- ÉLEVE Lola Lalo ----------
+Nom : Lalo
+Prenom : Lola
+Sexe : Femme
+Date de naissance : 06-07-2016
+

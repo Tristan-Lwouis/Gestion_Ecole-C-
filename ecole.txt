@@ -1,0 +1,77 @@
+-------------------- ECOLE École des Petits Génies --------------------
+
+Nom du directeur : Lemoine Valérie
+Le total de classe dans l'école est de : 3
+Dans l'école il y a 2 classes de CP
+Dans l'école il y a 1 classes de CE1
+Dans l'école il y a 0 classes de CE2
+Dans l'école il y a 0 classes de CM1
+Dans l'école il y a 0 classes de CM2
+--- FIN ECOLE -------------------------------------
+
+~~~~~~~~~~~~~~ CLASSE DE CP 1 ~~~~~~~~~~~~~~ 
+Nom du professeur : MMe ou Mr Durand Céline
+Dans la classe il y a 1 fille et 2 garçon.
+
+---------- ÉLEVE Léo Dubois ----------
+Nom : Dubois
+Prenom : Léo
+Sexe : Homme
+Date de naissance : 05-03-2016
+
+---------- ÉLEVE Emma Morel ----------
+Nom : Morel
+Prenom : Emma
+Sexe : Femme
+Date de naissance : 12-10-2017
+
+---------- ÉLEVE Noah Petit ----------
+Nom : Petit
+Prenom : Noah
+Sexe : Homme
+Date de naissance : 20-06-2016
+
+~~~~~~~~~~~~~~ CLASSE DE CP 2 ~~~~~~~~~~~~~~ 
+Nom du professeur : MMe ou Mr Roux Benoît
+Dans la classe il y a 2 fille et 1 garçon.
+
+---------- ÉLEVE Lucas Garcia ----------
+Nom : Garcia
+Prenom : Lucas
+Sexe : Homme
+Date de naissance : 18-02-2017
+
+---------- ÉLEVE Lina Leroy ----------
+Nom : Leroy
+Prenom : Lina
+Sexe : Femme
+Date de naissance : 03-12-2016
+
+---------- ÉLEVE Zoé Faure ----------
+Nom : Faure
+Prenom : Zoé
+Sexe : Femme
+Date de naissance : 25-08-2017
+
+~~~~~~~~~~~~~~ CLASSE DE CE1 1 ~~~~~~~~~~~~~~ 
+Nom du professeur : MMe ou Mr Marchand Thomas
+Dans la classe il y a 1 fille et 2 garçon.
+
+---------- ÉLEVE Adam Blanc ----------
+Nom : Blanc
+Prenom : Adam
+Sexe : Homme
+Date de naissance : 30-04-2016
+
+---------- ÉLEVE Anna Meunier ----------
+Nom : Meunier
+Prenom : Anna
+Sexe : Femme
+Date de naissance : 14-07-2016
+
+---------- ÉLEVE Ethan Henry ----------
+Nom : Henry
+Prenom : Ethan
+Sexe : Homme
+Date de naissance : 06-09-2017
+
